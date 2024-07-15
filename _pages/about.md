@@ -34,7 +34,7 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 
 {% include_relative includes/projects.md %}
 
-{% include_relative includes/talks.md %}
+{% include_relative includes/presentations.md %}
 
 {% include_relative includes/honers.md %}
 
