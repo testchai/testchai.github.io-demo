@@ -24,11 +24,11 @@ redirect_from:
 
 [//]: # (false，结果为 https://raw.githubusercontent.com/zychai/zychai.github.io/google-scholar-stats/gs_data_shieldsio.json)
 
-[//]: # (后面这里可以参照masthead.html写个循环? md文件可以写循环吗？写循环会被渲染出来吗)
-
-<!-- <span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>
 
 {% include_relative includes/intro.md %}
+
+If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 {% include_relative includes/educations.md %}
 
@@ -42,14 +42,5 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
-{% include_relative includes/internships.md %} -->
+{% include_relative includes/internships.md %}
 
-<!-- If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io). -->
-
-
-{% for link in site.data.navigation.main %}
-  <span class='anchor' id = link.url></span>
-  {% include_relative includes/news.md %}
-{% endfor %}
-
-If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
