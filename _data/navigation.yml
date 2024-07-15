@@ -16,11 +16,11 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Presentations"
     url: "/#-presentations"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Internships"
     url: "/#-internships"
