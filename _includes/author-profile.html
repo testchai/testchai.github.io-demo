@@ -2,6 +2,8 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<!-- 前半部分是电脑端，后半部分是手机端 -->
+
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
@@ -217,7 +219,7 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.zhihu %}
-        <a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a>
+        <a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> </a>
       {% endif %}
     </div>
   </div>
