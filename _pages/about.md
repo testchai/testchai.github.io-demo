@@ -28,8 +28,6 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
-
 {% include_relative includes/news.md %}
 
 {% include_relative includes/educations.md %}
@@ -44,3 +42,6 @@ If you like the template of this homepage, welcome to star and fork [Yi Ren](htt
 
 {% include_relative includes/internships.md %}
 
+<!-- 还是写到_layouts/default.html文件的页脚吧 -->
+
+If you like the template of this homepage, welcome to star and fork [Yi Ren](https://github.com/RayeRen)'s open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
