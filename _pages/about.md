@@ -22,6 +22,6 @@ redirect_from:
 
 {% include_relative includes/presentations.md %}
 
-{% include_relative includes/honers-and-awards.md %}
+{% include_relative includes/honors-and-awards.md %}
 
 {% include_relative includes/internships.md %}
