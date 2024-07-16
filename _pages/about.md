@@ -19,21 +19,3 @@ redirect_from:
   {% assign md_file = stripped_url | append: ".md" %}
   {% include_relative includes/{{ md_file }} %}
 {% endfor %}
-
-
-<!-- 我倒要看看是不是下面的注释的问题 -->
-
-<!-- {% include_relative includes/news.md %}
-
-{% include_relative includes/educations.md %}
-
-{% include_relative includes/pub.md %}
-
-{% include_relative includes/projects.md %}
-
-{% include_relative includes/presentations.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/internships.md %} -->
-
