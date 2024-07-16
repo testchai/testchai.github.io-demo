@@ -1,6 +1,5 @@
-# main links links
 # 菜单栏设置
-main:
+en:
   - title: "About Me"
     url: "/#-about-me"
 
@@ -24,3 +23,29 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+
+zh:
+  - title: "关于我"
+    url: "/zh-cn/#-about-me"
+
+  - title: "最近消息"
+    url: "/zh-cn/#-news"
+
+  - title: "教育"
+    url: "/zh-cn/#-educations"
+
+  - title: "学术出版物"
+    url: "/zh-cn/#-publications"
+
+  - title: "项目"
+    url: "/zh-cn/#-projects"
+
+  - title: "学术交流"
+    url: "/zh-cn/#-presentations"
+    
+  - title: "荣誉奖项"
+    url: "/zh-cn/#-honors-and-awards"
+
+  - title: "实习"
+    url: "/zh-cn/#-internships"
+

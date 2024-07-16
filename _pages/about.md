@@ -172,10 +172,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 # 💬 Presentations
 
-- _2022.02_, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- _2021.06_, Audio & Speech Synthesis, Huawei internal talk
-- _2021.03_, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- _2020.12_, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+
 
 # 🏆 Honors and Awards
 
@@ -186,9 +183,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 # 💻 Internships
 
-- _2021.06 - 2021.09_, Alibaba, Hangzhou.
-- _2019.05 - 2020.02_, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- _2019.02 - 2019.05_, [YiWise](https://www.yiwise.com/), Hangzhou.
-- _2018.08 - 2019.02_, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- _2018.01 - 2018.06_, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- _2017.08 - 2018.12_, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+
