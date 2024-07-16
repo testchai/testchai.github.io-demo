@@ -10,8 +10,6 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-# 🙋 About Me
-
 I am currently studying in the MAO Yisheng Class of Traffic Engineering, School of Transportation, Southeast University.
 
 I hope to engage in teaching and research related to intelligent transportation in the future.
