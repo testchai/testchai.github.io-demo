@@ -2,7 +2,7 @@
 # 菜单栏设置
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "News"
     url: "/#-news"
