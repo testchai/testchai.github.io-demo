@@ -15,7 +15,7 @@ redirect_from:
 {% for link in site.data.navigation.main %}
   <span class='anchor' id="{{ link.url }}"></span>
   {% assign url_length = link.url | size %}
-  {% assign stripped_url = link.url | slice: 3, url_length %}
+  {% assign stripped_url = link.url | slice: 4, url_length %}
   {% assign md_file = stripped_url | append: ".md" %}
   {% include_relative includes/{{ md_file }} %}
 {% endfor %}
