@@ -18,6 +18,6 @@ redirect_from:
   
   {% assign md_file = stripped_url | append: ".md" %}
   
-  {% include_relative includes/{{ md_file }} %}
+  {% include_relative includes/{{md_file}} %}
 
 {% endfor %}
